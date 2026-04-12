@@ -10,7 +10,7 @@ const Banner = () => {
             <div className='flex justify-center'>
                 <button className='text-[#9538E2] bg-white py-1.5 px-4 rounded-full font-bold'>Shop Now</button>
             </div>
-            <div className='w-[80%] rounded-2xl border p-3 bg-gray-400 absolute left-1/2 -translate-x-1/2 -bottom-30 lg:-bottom-50'>
+            <div className='w-[80%] lg:w-[60%] rounded-2xl border p-3 bg-gray-400 absolute left-1/2 -translate-x-1/2 -bottom-30 lg:-bottom-50'>
                 <Image src={img} alt='banner' className='rounded-2xl border h-60 lg:h-100 object-cover'></Image>
             </div>
         </div>
