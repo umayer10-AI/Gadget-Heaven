@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "product_title": "Wireless Bluetooth Headphones",
+    "product_image": "https://picsum.photos/id/180/400/300",
+    "category": "Electronics",
+    "price": 59.99,
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "Specification": ["Bluetooth 5.0", "20h Battery", "Noise Cancellation"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "product_title": "Smart Watch Series 7",
+    "product_image": "https://picsum.photos/id/1062/400/300",
+    "category": "Electronics",
+    "price": 129.99,
+    "description": "Track your fitness and notifications with this smart watch.",
+    "Specification": ["Heart Rate Monitor", "GPS", "Water Resistant"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "id": 3,
+    "product_title": "Gaming Mouse RGB",
+    "product_image": "https://picsum.photos/id/0/400/300",
+    "category": "Accessories",
+    "price": 25.5,
+    "description": "Ergonomic gaming mouse with customizable RGB lighting.",
+    "Specification": ["16000 DPI", "RGB Lighting", "6 Buttons"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": 4,
+    "product_title": "Mechanical Keyboard",
+    "product_image": "https://picsum.photos/id/1080/400/300",
+    "category": "Accessories",
+    "price": 75.0,
+    "description": "Durable mechanical keyboard with tactile feedback.",
+    "Specification": ["Blue Switches", "RGB Backlight", "USB-C"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "product_title": "Laptop Backpack",
+    "product_image": "https://picsum.photos/id/1060/400/300",
+    "category": "Bags",
+    "price": 40.0,
+    "description": "Stylish and durable backpack for laptops up to 15.6 inches.",
+    "Specification": ["Waterproof", "USB Charging Port", "Anti-theft"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "id": 6,
+    "product_title": "4K LED Monitor",
+    "product_image": "https://picsum.photos/id/1/400/300",
+    "category": "Electronics",
+    "price": 299.99,
+    "description": "Ultra HD monitor for work and entertainment.",
+    "Specification": ["3840x2160", "27 inch", "IPS Panel"],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "product_title": "Portable Power Bank",
+    "product_image": "https://picsum.photos/id/20/400/300",
+    "category": "Electronics",
+    "price": 20.0,
+    "description": "Fast charging power bank with high capacity.",
+    "Specification": ["10000mAh", "Fast Charge", "USB-C"],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "id": 8,
+    "product_title": "Wireless Earbuds",
+    "product_image": "https://picsum.photos/id/29/400/300",
+    "category": "Electronics",
+    "price": 49.99,
+    "description": "Compact wireless earbuds with clear sound.",
+    "Specification": ["Touch Control", "Bluetooth 5.1", "Charging Case"],
+    "availability": true,
+    "rating": 4.0
+  },
+  {
+    "id": 9,
+    "product_title": "DSLR Camera",
+    "product_image": "https://picsum.photos/id/250/400/300",
+    "category": "Electronics",
+    "price": 599.0,
+    "description": "Capture stunning photos with this DSLR camera.",
+    "Specification": ["24MP", "1080p Video", "WiFi"],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "product_title": "Office Chair",
+    "product_image": "https://picsum.photos/id/1068/400/300",
+    "category": "Furniture",
+    "price": 120.0,
+    "description": "Comfortable ergonomic chair for long working hours.",
+    "Specification": ["Adjustable Height", "Lumbar Support", "Mesh Back"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "id": 11,
+    "product_title": "LED Desk Lamp",
+    "product_image": "https://picsum.photos/id/42/400/300",
+    "category": "Home",
+    "price": 18.0,
+    "description": "Energy-saving LED lamp with adjustable brightness.",
+    "Specification": ["Touch Control", "3 Modes", "USB Powered"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "id": 12,
+    "product_title": "External Hard Drive 1TB",
+    "product_image": "https://picsum.photos/id/180/400/300",
+    "category": "Storage",
+    "price": 65.0,
+    "description": "Reliable external storage for your files.",
+    "Specification": ["1TB", "USB 3.0", "Portable"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 13,
+    "product_title": "Bluetooth Speaker",
+    "product_image": "https://picsum.photos/id/1084/400/300",
+    "category": "Electronics",
+    "price": 35.0,
+    "description": "Portable speaker with powerful bass.",
+    "Specification": ["10W Output", "Water Resistant", "12h Playtime"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": 14,
+    "product_title": "Fitness Tracker Band",
+    "product_image": "https://picsum.photos/id/64/400/300",
+    "category": "Wearables",
+    "price": 30.0,
+    "description": "Track your daily activity and health stats.",
+    "Specification": ["Step Counter", "Sleep Monitor", "Heart Rate"],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "id": 15,
+    "product_title": "Smartphone Tripod",
+    "product_image": "https://picsum.photos/id/119/400/300",
+    "category": "Accessories",
+    "price": 15.0,
+    "description": "Flexible tripod for smartphones and cameras.",
+    "Specification": ["360 Rotation", "Lightweight", "Flexible Legs"],
+    "availability": true,
+    "rating": 4.0
+  },
+  {
+    "id": 16,
+    "product_title": "USB-C Hub Adapter",
+    "product_image": "https://picsum.photos/id/180/400/300",
+    "category": "Accessories",
+    "price": 22.0,
+    "description": "Expand your laptop ports with this hub.",
+    "Specification": ["HDMI", "USB 3.0", "SD Card Reader"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "id": 17,
+    "product_title": "Gaming Chair",
+    "product_image": "https://picsum.photos/id/1076/400/300",
+    "category": "Furniture",
+    "price": 180.0,
+    "description": "Comfortable gaming chair with adjustable features.",
+    "Specification": ["Reclining", "Lumbar Support", "Headrest"],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "id": 18,
+    "product_title": "Smart LED TV 43 Inch",
+    "product_image": "https://picsum.photos/id/1011/400/300",
+    "category": "Electronics",
+    "price": 399.0,
+    "description": "Enjoy streaming with this smart LED TV.",
+    "Specification": ["Full HD", "Android TV", "WiFi"],
+    "availability": true,
+    "rating": 4.7
+  }
+]
