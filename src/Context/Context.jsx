@@ -5,10 +5,11 @@ export const Data = createContext()
 
 const Context = ({children}) => {
 
-    const [cart, setCart] = useState([])
+    const [add, setA] = useState([])
+    const [wish, setW] = useState([])
 
     return (
-        <Data.Provider value={{cart,setCart}}>
+        <Data.Provider value={{add,setA,wish,setW}}>
             {children}
         </Data.Provider>
     );

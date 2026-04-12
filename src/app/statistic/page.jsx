@@ -14,7 +14,7 @@ const page = () => {
             </div>
                 <div className='flex justify-between items-center max-w-[80%] mx-auto my-5'>
                     <h2 className='text-2xl font-bold'>Cart</h2>
-                    <div className='flex gap-2 items-center'>
+                    <div className='flex gap-3 items-center'>
                         <h2 className='font-bold text-2xl'>Total cost: 999.99</h2>
                         <button className='btn btn-primary btn-outline flex gap-1'>Sort by Price<GiSettingsKnobs /></button>
                         <button className='btn btn-primary'>Purchase</button>
