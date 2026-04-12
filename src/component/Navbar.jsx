@@ -7,7 +7,7 @@ import { FaCartPlus, FaHeart } from 'react-icons/fa';
 const Navbar = () => {
     const p = usePathname()
     return (
-        <div className='flex justify-between items-center py-4 px-10'>
+        <div className='flex flex-col lg:flex-row gap-3 lg:gap-0 justify-between items-center py-4 px-10'>
             <h2 className='text-2xl font-bold'>Gadget Heaven</h2>
             <div className='flex items-center font-semibold list-none gap-7'>
                 <Link href={'/'} className={p=== '/' ? "btn btn-accent btn-outline" : "btn"}>Home</Link>
