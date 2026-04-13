@@ -49,9 +49,9 @@ const data = [
 
 const page = () => {
     return (
-        <div className='flex justify-center py-20'>
+        <div className='flex justify-center pt-25'>
             <BarChart
-                style={{ width: '50%', height: "20%"}}
+                style={{ width: '50%', height: "30%"}}
                 responsive
                 data={data}
                 >
