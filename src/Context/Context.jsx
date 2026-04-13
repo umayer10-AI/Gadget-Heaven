@@ -7,9 +7,10 @@ const Context = ({children}) => {
 
     const [add, setA] = useState([])
     const [wish, setW] = useState([])
+    const [tab, setTab] = useState('cart')
 
     return (
-        <Data.Provider value={{add,setA,wish,setW}}>
+        <Data.Provider value={{add,setA,wish,setW,tab,setTab}}>
             {children}
         </Data.Provider>
     );
