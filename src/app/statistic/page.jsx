@@ -1,6 +1,8 @@
+import Name from '@/component/Name';
 import Tabbtn from '@/component/Tabbtn';
 import TabCart from '@/component/TabCart';
 import Total from '@/component/Total';
+import ZeroCart from '@/component/ZeroCart';
 import React from 'react';
 import { GiSettingsKnobs } from 'react-icons/gi';
 
@@ -13,13 +15,14 @@ const page = () => {
                 <Tabbtn></Tabbtn>
             </div>
                 <div className='flex justify-between items-center max-w-[80%] mx-auto my-10'>
-                    <h2 className='text-2xl font-bold'>Cart</h2>
+                    <Name></Name>
                     <div className='flex gap-3 items-center'>
                         <Total></Total>
                         <button className='btn btn-primary btn-outline flex gap-1'>Sort by Price<GiSettingsKnobs /></button>
                         <button className='btn btn-primary'>Purchase</button>
                     </div>
                 </div>
+            <ZeroCart></ZeroCart>
             <TabCart></TabCart>
         </div>
     );
